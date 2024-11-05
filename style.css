@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D4E1EF;
+    min-height: 100vh;
+    text-align: center;
+   
+        font-family: "Outfit", sans-serif;
+      
+
+}
+
+.card{
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    width: 100%;
+    max-width: 315px;
+    height: 480px;
+    padding: 16px;
+    padding-bottom: 2.5rem;
+    border-radius: 18px;
+    background-color: white;
+    box-shadow: rgba(55, 54, 54, 0.409) 
+      
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+h2{
+    color: #1f3251;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  
+}
+p{
+    color: hsl(220, 15%, 55%);
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
